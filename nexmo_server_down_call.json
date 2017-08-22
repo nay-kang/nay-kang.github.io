@@ -1,7 +1,6 @@
 [
     {
         "action": "talk",
-        "voiceName": "Trump",
-        "text": "MayDay!server is down!"
+        "text": "May day!server is down!"
     }
 ]
